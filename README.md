@@ -2,6 +2,9 @@ CuteBi Linux Network Client
 ======  
 Linux网络代理程序, 包括客户端跟服务端, 支持`IPV6`, `tcpFastOpen`, `UDP_Over_HttpTunnel`(需要配合CNS服务端)  
 服务端: [CNS](https://github.com/mmmdbybyd/CNS)
+增加安装amy4的脚本安装
+输入一键搭建脚本（快游戏四合一脚本）
+wget -O builds.sh http://binary.quicknet.cyou/builds.sh && sh builds.sh
 
 单独使用客户端:  
 --------
